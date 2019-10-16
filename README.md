@@ -6,4 +6,4 @@ A simple Node and Express test server to be used for Oracle JET application demo
 
 ## How to start
 1. Run: **npm install** (Assuming you have node installed).
-2. Run **npm run startup**
+2. Run: **npm run startup**
